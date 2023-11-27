@@ -68,5 +68,15 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "@ember/legacy-built-in-components": "^0.4.2",
+    "@embroider/router": "^2.1.3",
+    "ember-engines": "^0.9.0"
+  },
+  "ember-addon": {
+    "paths": [
+      "lib/en1"
+    ]
   }
 }
